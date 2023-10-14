@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitship Blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Bitship Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Bitship Simplifies Digital Sales on Square Online</title>
+      <link>https://example.org/posts/introducing_poison/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/introducing_poison/</guid>
+      <description>In today&amp;rsquo;s digital age, e-commerce businesses are constantly seeking ways to improve the customer experience. If you&amp;rsquo;re using Square Online and selling digital goods, Bitship offers a seamless solution for automated digital file delivery. This article will guide you through the simple yet powerful features of Bitship that make digital sales hassle-free.
+The Concept of Product Mappings One of Bitship&amp;rsquo;s core features is the ability to create &amp;ldquo;Product Mappings.&amp;rdquo; These mappings allow you to connect a specific Item Variation in your Square Online store to a digital file URL.</description>
+    </item>
+    
+  </channel>
+</rss>
